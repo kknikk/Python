@@ -1,3 +1,4 @@
+#Retrieves current weather report for Honolulu,HI
 __author__ = 'kurtnikaitani'
 
 import urllib2
