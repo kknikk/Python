@@ -32,7 +32,7 @@ def average():
     length = 0.0
     average = 0.0
 
-    fileName = "de23.txt"
+    fileName = "avereageTemperatures.txt"
     infile = open(fileName, 'r')
 
     # read values and compute average
