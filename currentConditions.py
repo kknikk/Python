@@ -1,3 +1,4 @@
+#Retrieves the current weather observations for Honolulu,HI and trims output for temperature, wind, and humidity.
 __author__ = 'kurtnikaitani'
 import urllib2
 import re
